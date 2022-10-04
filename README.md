@@ -11,6 +11,6 @@ You can click the Preview link to take a look at your changes.
 
 <h1>code start</h1>
 
-<P>these codes must be repeated</P>
-<Button>done</button>
+<P>these codes must be repeated</p>
+Done
 
